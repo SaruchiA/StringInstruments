@@ -1,0 +1,6 @@
+D:\Users\Saruchi\Documents\GitHub\StringInstruments\bin\Debug\MusicStore.exe.config
+D:\Users\Saruchi\Documents\GitHub\StringInstruments\bin\Debug\MusicStore.exe
+D:\Users\Saruchi\Documents\GitHub\StringInstruments\bin\Debug\MusicStore.pdb
+D:\Users\Saruchi\Documents\GitHub\StringInstruments\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+D:\Users\Saruchi\Documents\GitHub\StringInstruments\obj\Debug\MusicStore.exe
+D:\Users\Saruchi\Documents\GitHub\StringInstruments\obj\Debug\MusicStore.pdb
